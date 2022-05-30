@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Srinesh 👋
 
-<!--
-**s1n7ax/s1n7ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Org's stars](https://img.shields.io/github/stars/s1n7ax?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjKCYQ21t4GMWWDQZI2jTYg?style=social)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=s1n7ax.visitor-badge&left_color=red&right_color=green)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full stack engineer from Sri Lanka. I'm mostly working with microservices and various frontend technologies.  I make videos on YouTube and contribute to open-source for fun.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1n7ax&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1n7ax&layout=compact)](https://github.com/s1n7ax)
+
