@@ -1,6 +1,6 @@
 # Hi there, I'm Srinesh 👋
 
-[![Top Commiter Rank](https://user-badge.committers.top/sri_lanka_public/s1n7ax.svg)](https://user-badge.committers.top/sri_lanka_public/s1n7ax)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/s1n7ax.svg)](https://user-badge.committers.top/sri_lanka/s1n7ax)
 [![GitHub Org's stars](https://img.shields.io/github/stars/s1n7ax?style=social)](https://github.com/s1n7ax)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjKCYQ21t4GMWWDQZI2jTYg?style=social)](https://www.youtube.com/@s1n7ax)
 [![Linux](https://img.shields.io/badge/os-nixos-blue)](https://github.com/s1n7ax/nixos)
